@@ -1,0 +1,35 @@
+{
+  "version": "v0.6.0",
+  "channel": "stable",
+  "status": "published",
+  "source_commit": "cef107cd4ad608cfda41eca8d02bc0cb8d6c4613",
+  "repository": "infinialabs-ai/infinia-creative-studio-releases",
+  "release_url": "https://github.com/infinialabs-ai/infinia-creative-studio-releases/releases/tag/v0.6.0",
+  "assets": [
+    {
+      "name": "InfiniaCreativeStudio-0.6.0-arm64.dmg",
+      "target": "aarch64-apple-darwin",
+      "component": "desktop",
+      "sha256": "2560d4531e7aa74781844d19c5151a5e2527bd49d98afa9ef046347edc773316",
+      "size": 147040673,
+      "url": "https://github.com/infinialabs-ai/infinia-creative-studio-releases/releases/download/v0.6.0/InfiniaCreativeStudio-0.6.0-arm64.dmg"
+    },
+    {
+      "name": "InfiniaCreativeStudio-0.6.0-arm64-mac.zip",
+      "target": "aarch64-apple-darwin",
+      "component": "desktop",
+      "sha256": "a74465858022faf02c669d799e0a4aa0cd695181183c45ebb7982785f5a7465c",
+      "size": 147295627,
+      "url": "https://github.com/infinialabs-ai/infinia-creative-studio-releases/releases/download/v0.6.0/InfiniaCreativeStudio-0.6.0-arm64-mac.zip"
+    },
+    {
+      "name": "InfiniaCreativeStudio-Setup-0.6.0.exe",
+      "target": "x86_64-pc-windows",
+      "component": "desktop",
+      "sha256": "7ed7be9a95b30d2b8873e3d060f9a023c753d082bd47bb717dc9f2f8c324dc30",
+      "size": 125712901,
+      "url": "https://github.com/infinialabs-ai/infinia-creative-studio-releases/releases/download/v0.6.0/InfiniaCreativeStudio-Setup-0.6.0.exe"
+    }
+  ]
+}
+
